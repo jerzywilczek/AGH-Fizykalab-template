@@ -18,6 +18,7 @@
 \RequirePackage{multirow}
 \RequirePackage{booktabs}
 \RequirePackage{tabularx}
+\RequirePackage{longtable}
 
 % Grafika
 \RequirePackage{graphicx}
